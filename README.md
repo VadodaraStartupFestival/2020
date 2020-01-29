@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="http://vadodarastartupfestival.in/">
-    <img src="website/static/img/logo.svg" alt="Vadodara StartUp Festival" width="400">
+    <img src="https://github.com/VadodaraStartupFestival/2020/blob/master/assets/img/Logo.png" width="370" height="400">
   </a>
   <br>
   <p>
