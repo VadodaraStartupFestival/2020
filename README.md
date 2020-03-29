@@ -6,7 +6,7 @@
   </a>
   <br>
   <p>
-    <em>Developed by: <a href="https://www.instagram.com/somyaranjan_26/">Somyaranjan Rout</a> by <a href="https://github.com/somyaranjan26">@SomyaranjanRout</a></em>
+    <em>Developed by: <a href="https://www.instagram.com/somyaranjan_26/">Somyaranjan Rout</a></em>
   </p>
 </div>
 
